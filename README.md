@@ -1,5 +1,5 @@
 # Web-Development-Introduction
-•	About Web | Mobile |  Desktop /n
+•	About Web | Mobile |  Desktop 
 •	What is website? 
 •	Why UI is Top Priorities? 
 •	Branding / Styling
