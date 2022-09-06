@@ -1,5 +1,7 @@
 # Web-Development-Introduction
-•	About Web | Mobile |  Desktop 
+<ul>
+  <li>About Web | Mobile |  Desktop </li>
+</ul>
 •	What is website? 
 •	Why UI is Top Priorities? 
 •	Branding / Styling
