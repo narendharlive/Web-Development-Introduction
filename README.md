@@ -10,7 +10,7 @@
   <li>How Website/app is helping Business to Grow </li>
   <li>How hands on Experience will help ?</li>
   <li>Adaptive  | Fluid | Responsive</li>
-  <li>Client | Server | Database | UX  | Architecture</li>
+  <li>Client | Server | Database | API | Backend | Frontend | Host | UX  | Architecture</li>
   <li>Technologies </li>
   <li>How Development works real time</li>
   <li>How Code Base Managed in real time</li>
